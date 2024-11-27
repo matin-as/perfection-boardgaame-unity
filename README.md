@@ -7,16 +7,12 @@ This simple but engaging game will strengthen your spatial skills and analysis a
 ---
 
 ## 📸 Video
-![Video](https://github.com/matin-as/perfection-boardgaame-unity/blob/main/Assets/video/a.mp4)
+https://github.com/user-attachments/assets/de37284f-1c50-4440-a898-2f3baa3bccd3
 
 ---
 
 ## 🛠️ Built With
 - **Unity**: Version 2023.2.5f1
-
-https://github.com/user-attachments/assets/de37284f-1c50-4440-a898-2f3baa3bccd3
-
-
 
 ---
 
