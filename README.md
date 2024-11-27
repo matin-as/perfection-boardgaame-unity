@@ -1,12 +1,13 @@
-# Onward - Online Fantasy Fighting Game
+# perfection-boardgaame-unity
 
-**Onward** is an exciting online game that immerses players in a thrilling world filled with fantasy creatures and intense battles. The game offers fast-paced gameplay, strategic upgrades, and endless fun as you face off against creatures like zombies and sheep.
+Perfection is a skill game that challenges your skills and speed. In this game, your goal is to place geometric pieces on the main board and organize them in such a way that there are no empty spaces left.
+
+This simple but engaging game will strengthen your spatial skills and analysis and is overall fun and exciting and suitable for all ages.
 
 ---
 
 ## 🛠️ Built With
 - **Unity**: Version 2023.2.5f1
-- **Photon**: For real-time multiplayer functionality
 
 ---
 
