@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/de37284f-1c50-4440-a898-2f3baa3bccd3
 ---
 
 ## 🙌 Contributions
-We welcome contributions! If you're interested in improving Onward, feel free to fork the repository, create a new branch, and submit a pull request.
+We welcome contributions! If you're interested in improving perfection-boardgaame-unity, feel free to fork the repository, create a new branch, and submit a pull request.
 
 ---
 
