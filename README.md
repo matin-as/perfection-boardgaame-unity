@@ -28,4 +28,4 @@ For feedback, reach out to us at:
 ---
 
 ## ⚖️ License
-Onward is licensed under [MIT License](LICENSE). See the `LICENSE` file for more details.
+game is licensed under [MIT License](LICENSE). See the `LICENSE` file for more details.
